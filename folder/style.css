@@ -1,0 +1,30 @@
+
+td {width: 20%;}
+
+div.panel{
+	padding: 20px;
+	background-color: #e1d8b7;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid 1px white;
+	border-radius: 50px;
+	width: 80%;
+}
+
+
+h1 {
+	background-color: #a38e43;
+}
+.tron{
+  text-align: left;
+
+}
+.tt{
+  text-align: center;
+  border: solid 1px black;
+}
+.about{
+	text-align: left;
+	padding-left: 100px;
+
+}
